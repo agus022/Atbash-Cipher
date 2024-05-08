@@ -24,5 +24,3 @@ main = do
     putStrLn $ "Texto original: " ++ textoOrig
     putStrLn $ "Texto cifrado: " ++ atbash textoOrig
     --se codifica mediante la funcion atbash el texto original 
-
----JAFS
